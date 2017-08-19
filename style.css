@@ -1,0 +1,73 @@
+.contact-page {
+	padding: 10px;
+
+}
+
+.navbar {
+	background: #fff;
+	font-style: Helvetica;
+	font-size: 24px;
+	padding: -10px;
+}
+
+.navbar-brand col-xs-12 col-sm-12 col-md-12 col-lg-12" href="index.html {
+	background: #a9a9a9;
+}
+.main-content {
+	color: #6E6766;
+	background: #fff;
+	padding: 5px;
+	margin-bottom: 10px;
+	
+
+}
+
+.col-xs-12 col-sm-12 col-md-4 col-lg-4 connect-box {
+	margin-bottom: 50px;
+
+}
+
+.col-xs-6 col-s-6 col-md-6 col-lg-6 contact-me {
+	background: #fff;
+	
+}
+
+body {
+	font-style: Helvetica;
+	 background-image: url("congruent_outline.png");
+}
+
+h1 {
+	font-size: 28px;
+	color: #6E6766;
+}
+
+h2 {
+	font-size: 28px;
+	color: #fff;
+}
+
+h3 {
+	font-size: 18px;
+	color: #6E6766;
+}
+
+h4 {
+	font-size: 18px;
+	color: #6E6766;
+	padding: 10px;
+}	
+
+
+.img-responsive {
+	max-width: 400px;
+}
+
+.footer{
+	color: #fff;
+	margin-top: 10px;
+}
+
+.navbar navbar-default navbar-fixed-bottom {
+
+}
